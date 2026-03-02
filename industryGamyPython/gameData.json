@@ -1,0 +1,25 @@
+{
+  "buildingData": {
+    "Lumber mill": {
+      "Name": "Lumber mill",
+      "Price": {}
+      "Passive": {},
+      "Active": {}
+    },
+    "Iron mine": {
+      "Name": "Iron mine",
+      "Price": {}
+      "Passive": {},
+      "Active": {}
+    },
+    "Hell hole": {
+      "Renamed structure to": "Iron mine"
+    },
+    "Gold panning camp": {
+      "Name": "Gold panning camp",
+      "Price": {},
+      "Passive": {},
+      "Active": {}
+    }
+  }
+}

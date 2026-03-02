@@ -1,0 +1,39 @@
+
+gamedata: {
+  events:{
+    event:{
+      eventname: "something"
+      severity: 1
+      eventText: "something big happens"
+      effects:{
+      }
+    }
+    event:{
+      eventname: "something"
+      severity: 1
+      eventText: "something big happens"
+      effects:{
+      }
+    event:{
+      eventname: "something"
+      severity: 1
+      eventText: "something big happens"
+      effects:{
+      }
+    event:{
+      eventname: "something"
+      severity: 1
+      eventText: "something big happens"
+      effects:{
+      }
+    event:{
+      eventname: "something"
+      severity: 1
+      eventText: "something big happens"
+      effects:{
+      }
+    }
+
+  }
+}
+

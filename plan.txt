@@ -1,0 +1,19 @@
+Goal: make a tui based resource and automation based game
+
+Rendering: could make it a terminal application but that limits it to the terminal, I would
+    idealy have it render in a fake terminal window.
+  Use: will use winit to render window, then use pixels to create a grid that will then be used     to render text in a mono space font.
+┌─────┬─────────────────┬─────┐
+│     │                 │     │
+│  3  │        2        │     │
+│     │                 │     │
+│     │                 │  4  │
+├─────┴─────────────────┤     │
+│          1            │     │
+│                       │     │
+└───────────────────────┴─────┘
+1: text entry, prompt/last commands
+2: outputs, events that happen/responces from commands
+3: options, list of menues and info about commands/settings
+4: resorces, shows what player has and how much
+16:9 window meaning that 

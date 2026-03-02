@@ -1,0 +1,13 @@
+{
+  "chars": {
+    "playerChar": {
+      "isUser": true,
+      "hasFailed": false,
+      "name": "claude",
+      "materials": {
+        "iron": 59,
+        "rawWood": 59
+      }
+    }
+  }
+}
