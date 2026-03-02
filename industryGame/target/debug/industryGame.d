@@ -1,1 +1,1 @@
-/home/claude/projects/industry-game/industryGame/target/debug/industryGame: /home/claude/projects/industry-game/industryGame/src/main.rs /home/claude/projects/industry-game/industryGame/src/turn_loop.rs
+/home/claude/projects/industry-game/industryGame/target/debug/industryGame: /home/claude/projects/industry-game/industryGame/src/main.rs

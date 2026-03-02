@@ -1,0 +1,12 @@
+/home/claude/projects/industry-game/industryGame/target/debug/deps/libloading-6809d83ac770ff74.d: /home/claude/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/libloading-0.7.4/src/lib.rs /home/claude/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/libloading-0.7.4/src/changelog.rs /home/claude/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/libloading-0.7.4/src/os/mod.rs /home/claude/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/libloading-0.7.4/src/os/unix/mod.rs /home/claude/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/libloading-0.7.4/src/os/unix/consts.rs /home/claude/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/libloading-0.7.4/src/util.rs /home/claude/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/libloading-0.7.4/src/error.rs /home/claude/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/libloading-0.7.4/src/safe.rs
+
+/home/claude/projects/industry-game/industryGame/target/debug/deps/liblibloading-6809d83ac770ff74.rmeta: /home/claude/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/libloading-0.7.4/src/lib.rs /home/claude/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/libloading-0.7.4/src/changelog.rs /home/claude/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/libloading-0.7.4/src/os/mod.rs /home/claude/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/libloading-0.7.4/src/os/unix/mod.rs /home/claude/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/libloading-0.7.4/src/os/unix/consts.rs /home/claude/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/libloading-0.7.4/src/util.rs /home/claude/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/libloading-0.7.4/src/error.rs /home/claude/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/libloading-0.7.4/src/safe.rs
+
+/home/claude/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/libloading-0.7.4/src/lib.rs:
+/home/claude/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/libloading-0.7.4/src/changelog.rs:
+/home/claude/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/libloading-0.7.4/src/os/mod.rs:
+/home/claude/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/libloading-0.7.4/src/os/unix/mod.rs:
+/home/claude/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/libloading-0.7.4/src/os/unix/consts.rs:
+/home/claude/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/libloading-0.7.4/src/util.rs:
+/home/claude/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/libloading-0.7.4/src/error.rs:
+/home/claude/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/libloading-0.7.4/src/safe.rs:
