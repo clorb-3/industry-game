@@ -77,7 +77,13 @@ def editingRecursive(editObj, recTimes=0):
 
             else:
 
-                editObj[whatToEdit] = input('new value \n:> ')
+                newValue = str(input('new value \n:> ').strip().capitalize())
+                if newValue not in ['Delete', '{}']:
+                    editObj[whatToEdit] = newValue
+                elif newValue == 'Delete':
+                    del editObj[whatToEdit]
+                else:
+                    editObj[whatToEdit] = {}
 
         except KeyError:
             print(whatToEdit + " is not a stat.\ndo you want to add a new stat"

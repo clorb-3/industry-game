@@ -2,24 +2,36 @@
   "buildingData": {
     "Lumber mill": {
       "Name": "Lumber mill",
-      "Price": {}
+      "Price": {
+        "Stone": "50",
+        "Gold": "100"
+      },
       "Passive": {},
       "Active": {}
     },
     "Iron mine": {
       "Name": "Iron mine",
-      "Price": {}
+      "Price": {
+        "Logs": "50",
+        "Gold": "100"
+      },
       "Passive": {},
-      "Active": {}
+      "Active": {
+        "Use dynamite": {
+          "Dynamite": "-1",
+          "Stone": "100",
+          "Iron": "10"
+        }
+      }
     },
-    "Hell hole": {
-      "Renamed structure to": "Iron mine"
-    },
-    "Gold panning camp": {
-      "Name": "Gold panning camp",
+    "Farm land": {
+      "Name": "Farm land",
       "Price": {},
       "Passive": {},
       "Active": {}
+    },
+    "Farm": {
+      "Renamed structure to": "Farm land"
     }
   }
 }
